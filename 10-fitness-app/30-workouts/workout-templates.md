@@ -115,4 +115,9 @@
 - **Reduce rest time** to increase intensity
 - **Add sets** for more volume
 - **Track workouts** to monitor progress
-- **Deload every 4-6 weeks** to prevent overtraining
+- **Deload every 4-6 weeks** to prevent overtraining:
+  - Reduce weight by 40-60% while maintaining same exercises
+  - Keep same rep ranges but reduce total sets by 30-50%
+  - Or maintain weight but reduce volume (fewer sets/reps)
+  - Focus on recovery, sleep, and form refinement
+  - Return to regular training after 1 week
