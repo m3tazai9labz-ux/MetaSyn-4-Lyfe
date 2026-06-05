@@ -1,0 +1,63 @@
+{
+  "name": "MetaSyn 4 Lyfe - Fitness App Prompt System",
+  "version": "1.0.0",
+  "description": "ChatGPT-powered fitness assistant with personalized training, nutrition, and progress tracking",
+  "author": "MetaSyn 4 Lyfe",
+  "modules": {
+    "goals": {
+      "path": "20-goals",
+      "description": "Fitness goal templates and SMART goal framework",
+      "files": [
+        "goal-templates.md"
+      ]
+    },
+    "workouts": {
+      "path": "30-workouts",
+      "description": "Workout plans for all fitness levels and exercise form guides",
+      "files": [
+        "workout-templates.md",
+        "form-and-safety.md"
+      ]
+    },
+    "nutrition": {
+      "path": "40-nutrition",
+      "description": "Nutrition guidance, meal plans, and supplement recommendations",
+      "files": [
+        "nutrition-guide.md"
+      ]
+    },
+    "progress": {
+      "path": "50-progress",
+      "description": "Progress tracking methods and metrics",
+      "files": [
+        "tracking-guide.md"
+      ]
+    },
+    "prompts": {
+      "path": "60-prompts",
+      "description": "ChatGPT system prompts and conversation templates",
+      "files": [
+        "fitness-prompt.md",
+        "conversation-templates.md"
+      ]
+    }
+  },
+  "features": [
+    "Personalized fitness goal setting",
+    "Customized workout plan generation",
+    "Nutrition and meal planning guidance",
+    "Progress tracking and analytics",
+    "Exercise form and safety instructions",
+    "Adaptive recommendations based on user feedback"
+  ],
+  "usage": {
+    "quick_start": "QUICKSTART.md",
+    "main_prompt": "60-prompts/fitness-prompt.md"
+  },
+  "target_audience": [
+    "Beginners starting their fitness journey",
+    "Intermediate athletes looking to optimize training",
+    "Advanced lifters seeking structured programming",
+    "Anyone wanting AI-powered fitness guidance"
+  ]
+}
